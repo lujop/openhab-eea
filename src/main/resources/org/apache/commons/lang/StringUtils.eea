@@ -1,0 +1,4 @@
+class org/apache/commons/lang/StringUtils
+lowerCase
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)Ljava/lang/String;
